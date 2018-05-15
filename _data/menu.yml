@@ -1,0 +1,40 @@
+---
+- 
+  label: La fonction
+  target: _pages/la-fonction.md
+- 
+  label: Datasciences
+  children:
+    -
+      label: Notre démarche
+      target: _pages/notre-demarche.md
+    -
+      label: Appui aux administrations
+      target: _pages/appui-aux-administrations.md
+-
+  label: Saisines de l'AGD
+  target: _pages/saisines-de-lagd.md
+  children:
+    -
+      label: Saisines de l'AGD
+      target: _pages/saisines-de-lagd.md
+    -
+      label: Formulaire de saisines
+      url: TODO
+    -
+      label: Avis de l'AGD
+      url: TODO category avis
+-
+  label: Offres
+  target: _pages/offres-demploi.md
+-
+  label: L'équipe
+  target: _pages/lequipe.md
+  children:
+    -
+      label: L'équipe
+      target: _pages/lequipe.md
+    -
+      label: Réseau
+      target: _pages/reseau.md
+

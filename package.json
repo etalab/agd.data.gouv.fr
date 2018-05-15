@@ -1,0 +1,28 @@
+{
+  "name": "agd.data.gouv.fr",
+  "version": "1.0.0",
+  "description": "Le blog de l'AGD",
+  "main": "index.js",
+  "scripts": {
+    "copy:assets": "copyfiles node_modules/template.data.gouv.fr/dist/* assets/",
+    "copy:scss": "css-variables-to-sass node_modules/template.data.gouv.fr/src/css/theme.css -o _sass/_theme.scss",
+    "build": "yarn run copy:assets && yarn run copy:scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etalab/agd.data.gouv.fr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etalab/agd.data.gouv.fr/issues"
+  },
+  "homepage": "https://github.com/etalab/agd.data.gouv.fr#readme",
+  "dependencies": {
+    "template.data.gouv.fr": "^1.0.0"
+  },
+  "devDependencies": {
+    "copyfiles": "^2.0.0",
+    "css-variables-to-sass": "^0.0.1-alpha.2"
+  }
+}
