@@ -22,3 +22,5 @@ exclude:
   - node_modules
   - yarn.lock
   - package.json
+
+theme: jekyll-theme-minimal
