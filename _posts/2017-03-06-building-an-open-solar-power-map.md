@@ -6,8 +6,6 @@ author: Michel Blancard
 layout: post
 guid: https://agd.data.gouv.fr/?p=840
 permalink: /2017/03/06/building-an-open-solar-power-map/
-kopa_nictitate_total_view:
-  - "9"
 categories:
   - Science des données
 tags:
