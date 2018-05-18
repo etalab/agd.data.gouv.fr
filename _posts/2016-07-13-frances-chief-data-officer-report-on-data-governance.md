@@ -21,32 +21,12 @@ The decree of 16 September 2014 creates, under the Prime minister's authority, a
 
 Predicting and preventing car thefts, optimizing waiting times for emergencies, better targeting of customs controls, identifying energy deficient buildings, identifying companies that will soon be recruiting and informing the relevant job seekers, addressing the shortage of teachers in school, optimizing traffic lights to decongest and clean upéthe city centers, revising the price calculation formula for medicinal drugs, negotiating electricity purchases by anticipating and controlling consumption peaks, negotiating better public procurements, predicting the micro-economic effects of a tax reform, forecasting medical investment needs through the analysis of scientific literature&#8230;é<strong> all these uses of predictive analysis are within reach of public authorities</strong>. They hold enormous potential for efficiency, expenditure control and policy accuracy.
 
-<div class="page" title="Page 7">
-  <div class="section">
-    <div class="layoutArea">
-      <div class="column">
-        <p>
-          <strong>Predictive analysis</strong> is only one example of a set of new practices : é?<strong>data-driven strategies</strong>é?, which for example allow :
-        </p>
-        
-        <ul>
-          <li>
-            To regulate an industrial sector by a releasing relevant data ' as the French government is <a href="https://le.taxi">experimenting</a> with geolocation data from taxis to enable them to benefit from digital services;
-          </li>
-          <li>
-            To organize information so that individual public servants can take better decisions;
-          </li>
-          <li>
-            To improve the day-to-day work of front-office staff by providing them with more real-time information;
-          </li>
-          <li>
-            To increase the autonomy and freedom of choice for public service users ' for example in predicting the likeliness of a successful legal procedure.
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
+<strong>Predictive analysis</strong> is only one example of a set of new practices : <strong>data-driven strategies</strong>, which for example allow :
+
+* To regulate an industrial sector by a releasing relevant data ' as the French government is <a href="https://le.taxi">experimenting</a> with geolocation data from taxis to enable them to benefit from digital services;
+* To organize information so that individual public servants can take better decisions;
+* To improve the day-to-day work of front-office staff by providing them with more real-time information;
+* To increase the autonomy and freedom of choice for public service users ' for example in predicting the likeliness of a successful legal procedure.
 
 These promises carried by data sciences are at the core of the **digital transformation** of big companies and large cities worldwide and are one of the levers for the modernisation of public action. This implies **integrating new skill sets in government teams**: data scientists, statisticians with innovative profiles, computer geeks, keen on new data-processing methods, and concerned with the concrete impact and translation of their mathematical results. It requires high-quality data ' that France does indeed produce and handle following a long-standing tradition, thanks to its high standard statistics and its commitment to the quality of public service. It also requires **an enhanced culture of é?data-driven strategiesé?**, an ambition to carry this type of change and the patience to continuously test and verify whether small changes can produce major improvements.
 
