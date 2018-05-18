@@ -16,9 +16,10 @@ tags:
   - Rapport
 excerpt: The decree of 16 September 2014 creates, under the Prime Minister's authority, a **Chief Data Officer** (CDO), attached to the Secretariat-General for Government Modernisation (SGMAP). The CDO coordinates the administrations' action with regards to the inventory, governance, production, circulation and data use. The Chief Data Officer **Henri Verdier** also deliver each year to the Prime Minister a public report on the inventory, governance, production, circulation and use of data by administrations.
 ---
-The decree of 16 September 2014 creates, under the Prime Minister's authority, a **Chief Data Officer** (CDO), attached to the Secretariat-General for Government Modernisation (SGMAP). The CDO coordinates the administrations' action with regards to the inventory, governance, production, circulation and data use. The Chief Data Officer **Henri Verdier** also deliver each year to the Prime Minister a <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/07/2016_06_20-rapport-AGD-EN-v4.pdf">public report</a> on the inventory, governance, production, circulation and use of data by administrations.
 
-Predicting and preventing car thefts, optimizing waiting times for emergencies, better targeting of customs controls, identifying energy deficient buildings, identifying companies that will soon be recruiting and informing the relevant job seekers, addressing the shortage of teachers in school, optimizing traffic lights to decongest and clean upéthe city centers, revising the price calculation formula for medicinal drugs, negotiating electricity purchases by anticipating and controlling consumption peaks, negotiating better public procurements, predicting the micro-economic effects of a tax reform, forecasting medical investment needs through the analysis of scientific literature&#8230;é<strong>all these uses of predictive analysis are within reach of public authorities</strong>. They hold enormous potential for efficiency, expenditure control and policy accuracy.
+The decree of 16 September 2014 creates, under the Prime minister's authority, a **Chief Data Officer** (CDO), attached to the Secretariat general for government modernisation (SGMAP). The CDO coordinates the administrations action with regards to the inventory, governance, production, circulation and data use. The Chief Data Officer **Henri Verdier** also deliver each year to the Prime Minister a <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/07/2016_06_20-rapport-AGD-EN-v4.pdf">public report</a> on the inventory, governance, production, circulation and use of data by administrations.
+
+Predicting and preventing car thefts, optimizing waiting times for emergencies, better targeting of customs controls, identifying energy deficient buildings, identifying companies that will soon be recruiting and informing the relevant job seekers, addressing the shortage of teachers in school, optimizing traffic lights to decongest and clean upéthe city centers, revising the price calculation formula for medicinal drugs, negotiating electricity purchases by anticipating and controlling consumption peaks, negotiating better public procurements, predicting the micro-economic effects of a tax reform, forecasting medical investment needs through the analysis of scientific literature&#8230;é<strong> all these uses of predictive analysis are within reach of public authorities</strong>. They hold enormous potential for efficiency, expenditure control and policy accuracy.
 
 <div class="page" title="Page 7">
   <div class="section">
@@ -51,23 +52,6 @@ These promises carried by data sciences are at the core of the **digital transfo
 
 The correct implementation of these methods, however, requires a prior effective **data governance**, i.e. global management of data produced or held by government to ensure the quality, freshness, interoperability and availability in the correct formats, facilitating swift use and dissemination amongst public servants 'from central and local governments 'so that they receive the information necessary to the performance of their tasks in compliance with important statutory secrets that protect fundamental freedoms and the nation's fundamental interests. It also requires organisation that allows the State control and sovereignty over its data, processes and systems, and provides citizens the transparency they are entitled to claim.
 
-<div class="page" title="Page 8">
-  <div class="layoutArea">
-    <div class="column">
-      <p>
-        This <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/07/2016_06_20-rapport-AGD-EN-v4.pdf"><strong>first report</strong></a>, based on a year of investigation, exchange and experimentation with numerous public officials and many administrations intends to <strong>provide a framework</strong> of analysis, detect promises and illusions of data-driven science, present initial results, report the initial difficulties encountered and suggest first orientations, including a collaborative mapping of the data available in the State, open to all administrations who wish to participate and benefit from it. <a href="https://api.gouv.fr"><strong>Api.gouv.fr</strong></a> and <a href="https://api.gouv.fr/api/franceconnect.html"><strong>FranceConnect</strong></a> are concrete examples of the strategic framework of State as a platform.
-      </p>
-      
-      <p>
-        <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/07/2016_06_20-rapport-AGD-EN-v4.pdf">Download the report</a>
-      </p>
-      
-      <p>
-        &nbsp;
-      </p>
-    </div>
-  </div>
-</div>
+This **[first report](https://agd.data.gouv.fr/wp-content/uploads/2016/07/2016_06_20-rapport-AGD-EN-v4.pdf)**, based on a year of investigation, exchange and experimentation with numerous public officials and many administrations intends to **provide a framework** of analysis, detect promises and illusions of data-driven science, present initial results, report the initial difficulties encountered and suggest first orientations, including a collaborative mapping of the data available in the State, open to all administrations who wish to participate and benefit from it. **[Api.gouv.fr](https://api.gouv.fr) and [**FranceConnect**](https://api.gouv.fr/api/franceconnect.html) are concrete examples of the strategic framework of State as a platform.
 
-<div class="page" title="Page 47">
-</div>
+* [Download the report](https://agd.data.gouv.fr/wp-content/uploads/2016/07/2016_06_20-rapport-AGD-EN-v4.pdf)
