@@ -9,13 +9,12 @@ guid: http://agd.data.gouv.fr/?page_id=11
 kopa_nictitate_total_view:
   - "27"
 ---
-La France a été le premier pays à instaurer la fonction **d'Administrateur général des données (« AGD »)** &#8211; équivalent d'un « Chief Data-Officer » - au sein de l'Etat.
+
+La France a été le premier pays à instaurer la fonction d'**administrateur général des données** (« AGD »)&#8211; équivalent d'un « Chief Data Officer » - au sein de l'Etat.
 
 **Placé sous l'autorité du Premier ministre** et rattaché au [secrétariat général pour la modernisation de l'action publique](http://www.modernisation.gouv.fr/le-sgmap), l'AGD est crée par le décret n°2014-1050 du 16 septembre 2014.
 
-
 > Lien vers le [décret instituant l'administrateur général des données](http://www.legifrance.gouv.fr/affichTexte.do;jsessionid=?cidTexte=JORFTEXT000029463482&dateTexte=&oldAction=dernierJO&categorieLien=id)
-
 
 ## Missions
 
@@ -31,9 +30,9 @@ Il organise, dans le respect de la protection des données personnelles et des s
 
 En concertation avec les administrations concernées, l'administrateur général des données :
 
-1. Propose au Premier ministre des stratégies d'exploitation des données produites, reéues ou collectées par les administrations dans le cadre de leurs missions de service public, y compris en s'appuyant sur des entreprises innovantes ;
+1. Propose au Premier ministre des stratégies d'exploitation des données produites, reçues ou collectées par les administrations dans le cadre de leurs missions de service public, y compris en s'appuyant sur des entreprises innovantes ;
 2. élabore des outils, des référentiels et des méthodologies permettant une meilleure exploitation des données et un plus grand usage des sciences des données au sein des administrations ;
-3. Adresse, en tant que de besoin, é la direction interministérielle des systèmes d'information et de la communication de l'Etat ses recommandations en matière de cadres techniques de référence visant é accroétre l'interopérabilité des systèmes d'information et des données. Il peut en outre travailler é la sémantisation des données ;
+3. Adresse, en tant que de besoin, à la direction interministérielle des systèmes d'information et de la communication de l'Etat ses recommandations en matière de cadres techniques de référence visant é accroétre l'interopérabilité des systèmes d'information et des données. Il peut en outre travailler é la sémantisation des données ;
 4. [Conduit des expérimentations sur l'utilisation des données]({% link _pages/notre-demarche.md %}) pour renforcer l'efficacité des politiques publiques, contribuer à la bonne gestion des deniers publics et améliorer la qualité des services rendus aux usagers.
 
 ### Saisine de l'administrateur général des données
