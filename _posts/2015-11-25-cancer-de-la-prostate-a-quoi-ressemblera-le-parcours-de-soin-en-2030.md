@@ -1,6 +1,6 @@
 ---
 id: 361
-title: Cancer de la prostate : À quoi ressemblera le parcours de soin en 2030 ?
+title: "Cancer de la prostate : À quoi ressemblera le parcours de soin en 2030 ?"
 date: 2015-11-25T11:25:11+00:00
 author: Paul-Antoine Chevalier
 layout: post
