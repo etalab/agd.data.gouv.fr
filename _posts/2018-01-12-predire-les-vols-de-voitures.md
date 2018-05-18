@@ -15,9 +15,7 @@ excerpt: En 2015, l'équipe de l'Administrateur général des données au sein d
 
 En 2015, l'équipe de l'Administrateur général des données au sein de la DINSIC a développé en collaboration avec le Service des technologies et des systèmes d'information de la Sécurité intérieure (ST(SI)è), un modèle de prédiction des vols liés aux véhicules. Cette collaboration a permis de développer **Predvol**, un outil d'aide à la décision pour les policiers et les gendarmes, comprenant une prédiction quotidienne du risque de vols, une carte de l'historique des vols et une typologie des quartiers en fonction de la nature des infractions qui y sont commises.
 
-<p class="p3">
-  <span class="s1">Ce projet, qui fut l'un des premiers de l'AGD, vit le jour lors d'une rencontre entre Etalab et le ST(SI)è. Les responsables du ST(SI)è, soucieux de tirer parti des avancées en matière de data-sciences, cherchaient un appui scientifique pour expérimenter des techniques d'apprentissage automatique (<i>machine learning</i>) sur un territoire. Le département de l'Oise, particulièrement exposé aux vols de voitures, réunissait les conditions pour lancer un projet.</span>
-</p>
+Ce projet, qui fut l'un des premiers de l'AGD, vit le jour lors d'une rencontre entre Etalab et le ST(SI)è. Les responsables du ST(SI)è, soucieux de tirer parti des avancées en matière de data-sciences, cherchaient un appui scientifique pour expérimenter des techniques d'apprentissage automatique (<i>machine learning</i>) sur un territoire. Le département de l'Oise, particulièrement exposé aux vols de voitures, réunissait les conditions pour lancer un projet.
 
 [<img class="wp-image-952 aligncenter" src="/wp-content/uploads/2017/10/1-oise_2015.jpeg" alt="" srcset="/wp-content/uploads/2017/10/1-oise_2015.jpeg 2020w, /wp-content/uploads/2017/10/1-oise_2015-300x216.jpeg 300w, /wp-content/uploads/2017/10/1-oise_2015-768x554.jpeg 768w, /wp-content/uploads/2017/10/1-oise_2015-1024x738.jpeg 1024w" sizes="(max-width: 643px) 100vw, 643px" />](/wp-content/uploads/2017/10/1-oise_2015.jpeg)
 
