@@ -1,13 +1,11 @@
 ---
 id: 361
-title: Cancer de la prostate : À quoi ressemblera le parcours de soin en 2030 ?
+title: "Cancer de la prostate : À quoi ressemblera le parcours de soin en 2030 ?"
 date: 2015-11-25T11:25:11+00:00
 author: Paul-Antoine Chevalier
 layout: post
 guid: https://agd.data.gouv.fr/?p=361
 permalink: /2015/11/25/cancer-de-la-prostate-a-quoi-ressemblera-le-parcours-de-soin-en-2030/
-kopa_nictitate_total_view:
-  - "3"
 image: /wp-content/uploads/2015/11/cancerdelaprostate_zoom2.png
 categories:
   - Science des données
