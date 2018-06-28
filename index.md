@@ -1,6 +1,6 @@
 ---
-layout: default
-summary: Le site de l'AGD
+layout: blog
+summary: Administrateur général des données
 ---
 
 ## Posts
