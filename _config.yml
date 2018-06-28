@@ -25,4 +25,4 @@ exclude:
   - yarn.lock
   - package.json
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-gouvfr
