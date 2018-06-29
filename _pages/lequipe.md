@@ -14,7 +14,7 @@ kopa_nictitate_total_view:
   * Administrateur général des données nommé par arrèté du Premier ministre en date du 18 septembre 2014
   * Directeur interministériel du numérique et du système d'information et de communication de l'Etat
   
-L'Administrateur général des données s'appuie sur une **équipe placée au sein de la [mission Etalab](https://www.etalab.gouv.fr/qui-sommes-nous)** :
+L'Administrateur général des données s'appuie sur une équipe placée au sein de la [mission Etalab](https://www.etalab.gouv.fr/qui-sommes-nous) :
 
 * Laure Lucchesi ([@laurelucchesi](http://www.twitter.com/laurelucchesi))
   * Directrice d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous)
