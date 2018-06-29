@@ -26,6 +26,6 @@ L'Administrateur général des données s'appuie sur une équipe placée au sein
   * Data scientist
 
 * Simon Chignard ([@schignard](http://twitter.com/schignard))
-  * conseiller stratégique
+  * Conseiller stratégique
 
 D'autres départements de la DINSIC contribuent à la réalisation des missions de l'AGD, avec le [relais des réseaux constitués dans les administrations]({% link _pages/reseau.md %}) (Adminisrateurs ministériels, data scientists, [Entrepreneurs d'intérêt général](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)&#8230;.).
