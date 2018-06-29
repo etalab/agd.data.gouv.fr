@@ -4,18 +4,31 @@ backend:
   site_domain: agd.data.gouv.fr
   repo: etalab/agd.data.gouv.fr
 
-media_folder: "img/uploads"
+media_folder: "wp-content/uploads"
 
 # Editorial workflow: validate changes through pull requests
 publish_mode: editorial_workflow
+collections:
+   - name: "pages"
+     label: "Pages"
+     folder: "_pages"
+     create: true
+     fields:
+       - {label: "Titre", name: "title", widget: "string"}
+       - {label: "Sous-titre", name: "subtitle", widget: "string"}
+       - {label: "Libellé (du menu)", name: "label", widget: "string"}
+       - {label: "Contenu", name: "body", widget: "markdown"}
 
-# collections:
-#   - name: faq
-#     label: FAQ
-#     folder: _faq
-#     create: true
-#     fields:
-#       - {label: "Titre", name: "title", widget: "string"}
-#       - {label: "Sous-titre", name: "subtitle", widget: "string"}
-#       - {label: "Libellé (du menu)", name: "label", widget: "string"}
-#       - {label: "Contenu", name: "body", widget: "markdown"}
+   - name: "posts"
+     label: "Posts"
+     folder: "_posts"
+     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+     create: true
+     fields:
+       - {label: "Titre", name: "title", widget: "string"}
+       - {label: "Date", name: "date", widget: "string"}
+       - {label: "Auteur", name: "author", widget: "string"}
+       - {label: "Catégories", name: "categories", widget: "string"}
+       - {label: "Image", name: "image", widget: image}
+       - {label: "Sous-titre", name: "excerpt", widget: string}
+       - {label: "Contenu", name: "body", widget: "markdown"}

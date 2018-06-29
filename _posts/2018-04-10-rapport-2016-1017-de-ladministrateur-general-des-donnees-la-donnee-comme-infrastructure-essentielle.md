@@ -11,7 +11,6 @@ kopa_nictitate_total_view:
 categories:
   - Circulation des données
   - Science des données
-
 image: https://agd.data.gouv.fr/wp-content/uploads/2018/04/remise-rapport-4.png
 excerpt: L'administrateur général des données (AGD) a remis ce jour au secrétaire d'état auprès du Premier ministre chargé du Numérique, Mounir Mahjoubi, son rapport 2016-2017, intitulé « La donnée comme infrastructure essentielle ». Il y dresse un état des lieux de la politique de la donnée, et relève les progrès accomplis ces deux dernières années. L'AGD y prône la construction d'une infrastructure de la donnée, nécessaire pour en garantir la qualité, la circulation et la meilleure exploitation possible.
 ---
