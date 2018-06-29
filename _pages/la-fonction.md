@@ -51,7 +51,8 @@ L'administrateur général des données remet chaque année au Premier ministre 
 
 Ce rapport fait notamment état des données existantes, de leur qualité ainsi que des exploitations innovantes que ces données autorisent. Il présente les évolutions récentes de l'économie de la donnée. Il contient des propositions visant é améliorer l'exploitation et la circulation des données entre les administrations.
   
-*Le [premier rapport remis au Premier ministre est disponible ici.](https://agd.data.gouv.fr/2016/01/21/rapport-annuel-2015-mettre-les-donnees-au-service-de-la-transformation-de-laction-publique/)*
+* [Rapport 2015](https://agd.data.gouv.fr/2016/01/21/rapport-annuel-2015-mettre-les-donnees-au-service-de-la-transformation-de-laction-publique/)
+* [Rapport 2016-2017](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf)
 
 ## Organisation
 
