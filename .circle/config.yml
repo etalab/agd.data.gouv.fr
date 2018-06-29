@@ -69,3 +69,10 @@ workflows:
           filters:
             branches:
               only: master
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - ./deploy
+
