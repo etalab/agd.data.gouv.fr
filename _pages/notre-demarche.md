@@ -10,9 +10,8 @@ kopa_nictitate_total_view:
   - "12"
 image: /wp-content/uploads/2015/02/blog-2177.jpg
 ---
-**L'Administrateur général des données veut ètre au plus proche des données de l'administration en les utilisant pour améliorer les politiques publiques.**
 
-## Exploiter les données par l'application des datasciences
+## Exploiter les données par l'application des data sciences
 
 Pour montrer l'efficacité de l'utilisation des données, l'administrateur général des données construit des **projets de datasciences** avec les administrations. L'objectif est d'aider les agents publics dans les décisions qu'ils prennent en exploitant des données et en mettant les résultats é leur disposition. Pour ce faire, l'équipe de datascientists utilise les données de l'administration partenaire et les enrichit quand cela est nécessaire par des données issues des autres administrations, diffusées en Open Data ou pas. Les données peuvent ètre des enregistrements de toute sorte, structurés ou non. L'équipe sait utiliser les méthodes modernes de traitement de données : Text Mining, Machine Learning, Big Data, &#8230;
 
@@ -34,7 +33,6 @@ L'interopérabilité, la qualité et l'accessibilité des données passent aussi
 - [les algorithmes de Bob Emploi](https://agd.data.gouv.fr/2016/11/14/760/)
 - [La Bonne Formation](https://labonneformation.pole-emploi.fr/)
   
-
 ### Pour fournir des outils d'aide à la décision dans le domaine de l'énergie
 
 - OpenSolarMap ([articles 0](https://agd.data.gouv.fr/2016/06/17/opensolarmap-cote-data-sciences-03/), [1](https://agd.data.gouv.fr/2016/06/23/les-techniques-standards-appliquees-a-opensolarmap-13/), [2](https://agd.data.gouv.fr/2016/06/27/un-reseau-de-neurones-pour-opensolarmap-23/) et [en anglais](https://agd.data.gouv.fr/2017/03/06/building-an-open-solar-power-map/))
