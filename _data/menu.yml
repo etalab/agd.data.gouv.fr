@@ -5,7 +5,7 @@ nav:
   label: La fonction
   target: _pages/la-fonction.md
 - 
-  label: Datasciences
+  label: Data science
   children:
     -
       label: Notre démarche
@@ -25,10 +25,7 @@ nav:
       url: TODO
     -
       label: Avis de l'AGD
-      url: TODO category avis
--
-  label: Offres
-  target: _pages/offres-demploi.md
+      targer: _pages/saisines-de-lagd/les-avis-de-lagd.md
 -
   label: L'équipe
   target: _pages/lequipe.md
@@ -39,4 +36,3 @@ nav:
     -
       label: Réseau
       target: _pages/reseau.md
-
