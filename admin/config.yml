@@ -28,5 +28,4 @@ collections:
        - {label: "Auteur", name: "author", widget: "string"}
        - {label: "Catégories", name: "categories", widget: "string"}
        - {label: "Image", name: "image", widget: image}
-       - {label: "Sous-titre", name: "excerpt", widget: string}
        - {label: "Contenu", name: "body", widget: "markdown"}
