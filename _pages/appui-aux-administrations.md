@@ -1,5 +1,7 @@
 ---
 title: Appui aux administrations
+permalink: /appui-aux-administrations/
+layout: page
 ---
 EN complément des compétences internes des datascientists d'Etalab, un **marché-cadre** a été établi en 2015 pour renforcer l'appui fourni aux administrations en matières de datasciences. **Les ministères peuvent donc utiliser ce véhicule** pour mener des projets de datasciences.
 
