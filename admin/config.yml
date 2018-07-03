@@ -7,7 +7,7 @@ backend:
 media_folder: "wp-content/uploads"
 
 # Editorial workflow: validate changes through pull requests
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 collections:
    - name: "pages"
      label: "Pages"
@@ -15,8 +15,6 @@ collections:
      create: true
      fields:
        - {label: "Titre", name: "title", widget: "string"}
-       - {label: "Sous-titre", name: "subtitle", widget: "string"}
-       - {label: "Libellé (du menu)", name: "label", widget: "string"}
        - {label: "Contenu", name: "body", widget: "markdown"}
 
    - name: "posts"
