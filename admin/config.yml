@@ -15,6 +15,8 @@ collections:
      create: true
      fields:
        - {label: "Titre", name: "title", widget: "string"}
+       - {label: "Lien de la page", name: "permalink", widget: "string", default: "/titre-de-la-page/"}
+       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
        - {label: "Contenu", name: "body", widget: "markdown"}
 
    - name: "posts"
@@ -26,6 +28,6 @@ collections:
        - {label: "Titre", name: "title", widget: "string"}
        - {label: "Date", name: "date", widget: "string"}
        - {label: "Auteur", name: "author", widget: "string"}
-       - {label: "Catégories", name: "categories", widget: "string"}
-       - {label: "Image", name: "image", widget: image}
+       - {label: "Catégories", name: "categories", widget: "string", required: false}
+       - {label: "Image", name: "image", widget: image, required: false}
        - {label: "Contenu", name: "body", widget: "markdown"}
