@@ -1,5 +1,7 @@
 # agd.data.gouv.fr
 
+![circle ci badge](https://circleci.com/gh/etalab/agd.data.gouv.fr.svg?&style=shield&circle-token=a0062e739a4a1d9bb686c667425be5f916e18ba5)
+
 Le site de l'AGD
 
 ## Contribuer
