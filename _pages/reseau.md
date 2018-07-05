@@ -21,6 +21,7 @@ Un réseau **d'administrateurs des données** dans les ministères est égalemen
   * [DREES](https://www.legifrance.gouv.fr/eli/decret/2015/10/19/AFSE1511571D/jo) 
   * [DILA](https://fr.linkedin.com/in/marie-h%C3%A9l%C3%A8ne-roux-1929a937)
   * [Ministère de la Justice](https://fr.linkedin.com/in/leila-fodil-cherif-urbanistesi)
+  * [Ministère de l'Enseignement Supérieur et de la Recherche](http://www.enseignementsup-recherche.gouv.fr/cid132529/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-a-tous-sans-entrave-sans-delai-sans-paiement.html) - (Annonce du 4/7/2018)
 
 Ce réseau se réunit régulièrement pour échanger sur les grands chantiers.
 
