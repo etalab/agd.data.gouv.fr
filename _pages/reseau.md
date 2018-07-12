@@ -31,4 +31,4 @@ De plus en plus d'administrations constituent par ailleurs des équipes dédiée
 
 Etalab contribue à mettre en relation et animer cette communauté, a lancé des [réunions régulières de partage d'expérience autour des projets de datasciences](https://www.etalab.gouv.fr/event/data-drink) dans les administrations.
 
-De nombreux défis du [**programme Entrepreneurs d'Intérèt Général**](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general) &#8211; initié et géré par Etalab &#8211; sont par ailleurs des sujets de data sciences ou sont des problématiques liées aux données, la communauté des « EIG » vient ainsi renforcer ce réseau en apportant son savoir-faire et en partageant son expérience.
+De nombreux défis du [**programme Entrepreneurs d'Intérèt Général**](https://entrepreneur-interet-general.etalab.gouv.fr/) &#8211; initié et géré par [Etalab](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general) &#8211; sont par ailleurs des sujets de data sciences ou sont des problématiques liées aux données, la communauté des « EIG » vient ainsi renforcer ce réseau en apportant son savoir-faire et en partageant son expérience.
