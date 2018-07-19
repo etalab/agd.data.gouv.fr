@@ -1,0 +1,26 @@
+version: 2.0
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.5-stretch
+
+    working_directory: ~/agd.data.gouv.fr
+
+    steps:
+      - checkout
+
+      - run:
+          name: Ruby dependencies
+          command: bundle install
+
+      - run:
+          name: Build
+          command: bundle exec jekyll build --verbose
+
+      - run:
+          name: Test
+          command: bundle exec jekyll doctor
+
+      - run:
+          name: Deploy
+          command: ./.circleci/deploy
