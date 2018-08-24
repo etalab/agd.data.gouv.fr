@@ -15,7 +15,6 @@ nav:
       target: _pages/appui-aux-administrations.md
 -
   label: Saisines de l'AGD
-  target: _pages/saisines-de-lagd.md
   children:
     -
       label: Saisines de l'AGD
@@ -28,7 +27,6 @@ nav:
       target: _pages/saisines-de-lagd/les-avis-de-lagd.md
 -
   label: L'équipe
-  target: _pages/lequipe.md
   children:
     -
       label: L'équipe
