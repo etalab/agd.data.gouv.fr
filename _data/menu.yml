@@ -1,10 +1,10 @@
 ---
 title: agd
 nav:
-- 
+-
   label: La fonction
   target: _pages/la-fonction.md
-- 
+-
   label: Data science
   children:
     -
@@ -22,7 +22,7 @@ nav:
       target: _pages/saisines-de-lagd.md
     -
       label: Formulaire de saisines
-      url: TODO
+      target: _pages/saisines-de-lagd/formulaire-de-saisine.md
     -
       label: Avis de l'AGD
       targer: _pages/saisines-de-lagd/les-avis-de-lagd.md
