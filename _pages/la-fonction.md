@@ -50,7 +50,7 @@ L'administrateur général des données propose au Premier ministre, après conc
 L'administrateur général des données remet chaque année au Premier ministre un rapport public sur l'inventaire, la gouvernance, la production, la circulation, l'exploitation des données par les administrations.
 
 Ce rapport fait notamment état des données existantes, de leur qualité ainsi que des exploitations innovantes que ces données autorisent. Il présente les évolutions récentes de l'économie de la donnée. Il contient des propositions visant é améliorer l'exploitation et la circulation des données entre les administrations.
-  
+
 * [Rapport 2015](https://agd.data.gouv.fr/2016/01/21/rapport-annuel-2015-mettre-les-donnees-au-service-de-la-transformation-de-laction-publique/)
 * [Rapport 2016-2017](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf)
 
@@ -58,4 +58,4 @@ Ce rapport fait notamment état des données existantes, de leur qualité ainsi 
 
 L'Administrateur général des données s'appuie en grande partie sur une **[équipe]({% link _pages/lequipe.md %}) placée au sein de la mission Etalab, principale « cellule opérationnelle » de l'AGD.**
 
-D'autres départements de la DINSIC contribuent également à la réalisation des missions de l'AGD, relayées par ailleurs par un **[réseau qui se constitue dans les administrations (administrateurs des données, datascientists, Entrepreneurs d'Intérèt Général&#8230;)]({% link _pages/reseau.md %})**
+D'autres départements de la DINSIC contribuent également à la réalisation des missions de l'AGD, relayées par ailleurs par un **[réseau qui se constitue dans les administrations (administrateurs des données, datascientists, Entrepreneur.e d’Intérêt Général&#8230;)]({% link _pages/reseau.md %})**
