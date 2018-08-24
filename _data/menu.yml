@@ -25,7 +25,7 @@ nav:
       target: _pages/saisines-de-lagd/formulaire-de-saisine.md
     -
       label: Avis de l'AGD
-      targer: _pages/saisines-de-lagd/les-avis-de-lagd.md
+      target: _pages/saisines-de-lagd/les-avis-de-lagd.md
 -
   label: L'équipe
   target: _pages/lequipe.md
