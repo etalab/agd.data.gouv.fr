@@ -12,7 +12,6 @@ kopa_nictitate_total_view:
 
 * Henri Verdier, administrateur général des données ([@henriverdier](https://www.twitter.com/henriverdier))
   * Administrateur général des données nommé par arrèté du Premier ministre en date du 18 septembre 2014
-  * Directeur interministériel du numérique et du système d'information et de communication de l'Etat
   
 L'Administrateur général des données s'appuie sur une équipe placée au sein de la [mission Etalab](https://www.etalab.gouv.fr/qui-sommes-nous) :
 
