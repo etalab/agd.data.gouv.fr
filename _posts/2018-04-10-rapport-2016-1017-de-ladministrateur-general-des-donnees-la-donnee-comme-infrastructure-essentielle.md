@@ -15,7 +15,7 @@ image: https://agd.data.gouv.fr/wp-content/uploads/2018/04/remise-rapport-4.png
 excerpt: L'administrateur général des données (AGD) a remis ce jour au secrétaire d'État auprès du Premier ministre chargé du Numérique, Mounir Mahjoubi, son rapport 2016-2017, intitulé « La donnée comme infrastructure essentielle ». Il y dresse un état des lieux de la politique de la donnée, et relève les progrès accomplis ces deux dernières années. L'AGD y prône la construction d'une infrastructure de la donnée, nécessaire pour en garantir la qualité, la circulation et la meilleure exploitation possible.
 ---
 
-**L'administrateur général des données (AGD) a remis ce jour au secrétaire d'État auprès du Premier ministre chargé du Numérique, Mounir Mahjoubi, son [rapport 2016-2017](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf), intitulé « La donnée comme infrastructure essentielle ». Il y dresse un état des lieux de la politique de la donnée, et relève les progrès accomplis ces deux dernières années. L'AGD y prône la construction d'une infrastructure de la donnée, nécessaire pour en garantir la qualité, la circulation et la meilleure exploitation possible.**
+**L'administrateur général des données (AGD) a remis ce jour au secrétaire d'État auprès du Premier ministre chargé du numérique, Mounir Mahjoubi, son [rapport 2016-2017](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf), intitulé « La donnée comme infrastructure essentielle ». Il y dresse un état des lieux de la politique de la donnée et relève les progrès accomplis ces deux dernières années. L'AGD y prône la construction d'une infrastructure de la donnée, nécessaire pour en garantir la qualité, la circulation et la meilleure exploitation possible.**
 
 [<img class="size-thumbnail wp-image-1028 aligncenter" src="https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-150x150.png" alt="" width="150" height="150" srcset="https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-150x150.png 150w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-80x80.png 80w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-118x118.png 118w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-239x239.png 239w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-32x32.png 32w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-50x50.png 50w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-64x64.png 64w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-96x96.png 96w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-128x128.png 128w" sizes="(max-width: 150px) 100vw, 150px" />](https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017.png)
 
@@ -26,7 +26,7 @@ excerpt: L'administrateur général des données (AGD) a remis ce jour au secré
 
 Dans son rapport 2016-2017, l'administrateur général des données dresse un état des lieux des pratiques des administrations en matière de production, de circulation et d'exploitation des données. Il fait mention des progrès enregistrés depuis la publication de son rapport précédent (décembre 2015), sur chacun des axes de cette politique :
 
-  * _produire les données essentielles :_ 
+  * _produire les données essentielles_ : 
       * Le statut de données de référence a été reconnu juridiquement dans le cadre de la loi pour une République numérique ;
       * Les administrations ont produit des données essentielles, comme la Base adresse nationale ;
       * Des standards de données ont été définis, notamment dans le domaine de la commande publique, des conventions de subventions et de l'énergie ;
@@ -35,9 +35,9 @@ Dans son rapport 2016-2017, l'administrateur général des données dresse un é
       * La mise à disposition d'interfaces de programmation, en particulier l'API Entreprise et l'API Particulier ;
       * Le cadre juridique a évolué pour favoriser la circulation de la donnée (principe d'ouverture par défaut, principe de gratuité) ;
   * _exploiter les données_ : 
-      * Les _datasciences_ ont été appliquées dans plusieurs domaines de l'action publique, dont la lutte contre le chômage, l'aide aux entreprises en difficulté, l'aide à la décision pour les forces de sécurité intérieure.
+      * Les _data sciences_ ont été appliquées dans plusieurs domaines de l'action publique, dont la lutte contre le chômage, l'aide aux entreprises en difficulté, l'aide à la décision pour les forces de sécurité intérieure.
 
-> **L'administrateur général des donnéesé: son rèle, ses missions**
+> **L'administrateur général des données : son rôle, ses missions**
 > 
 > Fonction créée en septembre 2014 par [décret](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029463482&categorieLien=id), l'administrateur général des données (AGD) coordonne l'action des administrations en matière d'inventaire, de gouvernance, de production, de circulation et d'exploitation des données. Il organise, dans le respect de la protection des données personnelles et des secrets protégés par la loi, la meilleure exploitation de ces données et leur plus large circulation, notamment aux fins d'évaluation des politiques publiques, d'amélioration et de transparence de l'action publique et de stimulation de la recherche et de l'innovation. Il encourage et soutient de ce fait le développement et l'usage des pratiques des datasciences au sein de l'administration.
 > 
@@ -47,7 +47,7 @@ Dans son rapport 2016-2017, l'administrateur général des données dresse un é
 
 ## Construire l'infrastructure de la donnée
 
-Dans sa deuxième partie, le rapport de l'AGD développe l'idée et l'importance de construire une infrastructure de la donnée. Le développement d'un pays est étroitement lié à la présence d'une infrastructure performante et de qualité, qu'il s'agisse de routes, de lignes ferroviaires, de réseaux d'énergie ou de télécommunications. L'État a d'ailleurs longtemps consacré une partie importante de ses investissements à construire et maintenir ces infrastructures. <span style="font-weight: 400;">Il faut aujourd'hui considérer les données comme l'une de ces i</span>nfrastructures _essentielles_ et _critiques_<span style="font-weight: 400;">. Essentielles car, dans une économie de l'information, l'accès à la donnée de référence fiable et à jour est la </span>condition du développement <span style="font-weight: 400;">des services numériques. Critiques car il faudra s'assurer que la fourniture de ces données ne puisse ètre interrompue, qu'il s'agisse de défaillances involontaires ou d'actes malveillants.</span>
+Dans sa deuxième partie, le rapport de l'AGD développe l'idée et l'importance de construire une infrastructure de la donnée. Le développement d'un pays est étroitement lié à la présence d'une infrastructure performante et de qualité, qu'il s'agisse de routes, de lignes ferroviaires, de réseaux d'énergie ou de télécommunications. L'État a d'ailleurs longtemps consacré une partie importante de ses investissements à construire et maintenir ces infrastructures. <span style="font-weight: 400;">Il faut aujourd'hui considérer les données comme l'une de ces </span>infrastructures _essentielles_ et _critiques_<span style="font-weight: 400;">. Essentielles car, dans une économie de l'information, l'accès à la donnée de référence fiable et à jour est la </span>condition du développement <span style="font-weight: 400;">des services numériques. Critiques car il faudra s'assurer que la fourniture de ces données ne puisse ètre interrompue, qu'il s'agisse de défaillances involontaires ou d'actes malveillants.</span>
 
 Plusieurs pays européens se sont engagés dans la mise en place d'une telle infrastructure de données. La deuxième partie du rapport développe ainsi une analyse comparée des initiatives du Royaume-Uni (UK Registers), de l'Estonie (X-Road), du Danemark (Basic Data) et de la France (service public de la donnée).
 
@@ -55,7 +55,7 @@ La construction d'une telle infrastructure nécessite la mobilisation de plusieu
 
 Le choix d'un modèle de gouvernance apparaît bien comme un élément structurant d'une infrastructure de données. Un certain degré de centralisation est nécessaire, ne serait-ce que pour fixer a minima des règles et des standards communs à l'ensemble des bases de données de référence.
 
-## Transformer l'essai: la feuille de route 2018-2019
+## Transformer l'essai : la feuille de route 2018-2019
 
 Le rapport présente en conclusion la feuille de route de l'administrateur général des données pour les deux prochaines années. Cinq axes sont proposés :
 
