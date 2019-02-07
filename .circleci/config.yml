@@ -9,9 +9,20 @@ jobs:
     steps:
       - checkout
 
+      - restore_cache:
+          keys:
+            - gem-cache-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-{{ arch }}-{{ .Branch }}
+            - gem-cache
+
       - run:
           name: Ruby dependencies
-          command: bundle install
+          command: bundle install --path vendor/bundle
+
+      - save_cache:
+          key: gem-cache-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
 
       - run:
           name: Build
