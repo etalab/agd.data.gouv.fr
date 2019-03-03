@@ -34,6 +34,7 @@ jobs:
   deploy:
     machine: true
     steps:
+      - checkout
       - run:
           name: Deploy over SSH
           command: ./.circleci/deploy
