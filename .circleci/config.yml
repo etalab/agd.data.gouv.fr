@@ -1,4 +1,4 @@
-version: 2.0
+version: 2
 jobs:
   build:
     docker:
@@ -31,7 +31,21 @@ jobs:
       - run:
           name: Test
           command: bundle exec jekyll doctor
-
+  deploy:
+    machine: true
+    steps:
       - run:
-          name: Deploy
+          name: Deploy over SSH
           command: ./.circleci/deploy
+
+workflows:
+  version: 2
+  build-and-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
