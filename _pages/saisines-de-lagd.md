@@ -18,6 +18,4 @@ Le décret de création de l'Administrateur général des données prévoit deux
 
 2. Les collectivités territoriales, les personnes morales de droit public et les personnes morales de droit privé chargées d'une mission de service public ont par ailleurs la capacité de saisir l'Administrateur général des données, pour avis, de toute question liée à l'utilisation par leurs services des données des administrations. Dans ce cas, l'AGD préparera un avis circonstancié, avec un groupe de travail _ad hoc_ si nécessaire, le remettra à l'administration concernée et le publiera avec son accord.
 
-&nbsp;
 
-Si les avis de l'AGD vous intéressent, vous pouvez vous rendre sur [cette page](http://agd.data.gouv.fr/category/avis/).
