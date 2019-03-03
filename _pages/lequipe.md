@@ -10,13 +10,13 @@ kopa_nictitate_total_view:
   - "30"
 ---
 
-* Henri Verdier, administrateur général des données ([@henriverdier](https://www.twitter.com/henriverdier))
-  * Administrateur général des données nommé par arrèté du Premier ministre en date du 18 septembre 2014
-  
 L'Administrateur général des données s'appuie sur une équipe placée au sein de la [mission Etalab](https://www.etalab.gouv.fr/qui-sommes-nous) :
 
 * Laure Lucchesi ([@laurelucchesi](http://www.twitter.com/laurelucchesi))
   * Directrice d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous)
+  
+ * Perica Sucevic 
+  * Adjoint d'Etalab et conseiller juridique du DINSIC
 
 * Paul-Antoine Chevalier ([@pa_chevalier](http://www.twitter.com/pa_chevalier))
   * Data scientist
@@ -24,6 +24,9 @@ L'Administrateur général des données s'appuie sur une équipe placée au sein
 * Marion Paclot
   * Data scientist
 
+* Pavel Soriano
+  * Data scientist
+  
 * Simon Chignard ([@schignard](http://twitter.com/schignard))
   * Conseiller stratégique
 
