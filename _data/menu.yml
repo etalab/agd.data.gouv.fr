@@ -21,9 +21,6 @@ nav:
       label: Saisines de l'AGD
       target: _pages/saisines-de-lagd.md
     -
-      label: Formulaire de saisines
-      url: TODO
-    -
       label: Avis de l'AGD
       targer: _pages/saisines-de-lagd/les-avis-de-lagd.md
 -
