@@ -14,14 +14,14 @@ nav:
       label: Appui aux administrations
       target: _pages/appui-aux-administrations.md
 -
-  label: Saisines de l'AGD
+  label: Les saisines de l'AGD
   target: _pages/saisines-de-lagd.md
   children:
     -
-      label: Saisines de l'AGD
+      label: Les saisines de l'AGD
       target: _pages/saisines-de-lagd.md
     -
-      label: Avis de l'AGD
+      label: Les avis de l'AGD
       target: _pages/saisines-de-lagd/les-avis-de-lagd.md
 -
   label: L'équipe
@@ -31,5 +31,5 @@ nav:
       label: L'équipe
       target: _pages/lequipe.md
     -
-      label: Réseau
+      label: Le réseau
       target: _pages/reseau.md
