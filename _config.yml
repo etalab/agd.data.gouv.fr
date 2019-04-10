@@ -23,5 +23,5 @@ exclude:
   - yarn.lock
   - package.json
 
-theme: jekyll-theme-gouvfr
 remote_theme: etalab/template-jekyll
+theme: jekyll-theme-gouvfr
