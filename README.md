@@ -1,8 +1,6 @@
 # agd.data.gouv.fr
 
-![circle ci badge](https://circleci.com/gh/etalab/agd.data.gouv.fr.svg?&style=shield&circle-token=a0062e739a4a1d9bb686c667425be5f916e18ba5)
-
-Le site de l'AGD
+Le site de l'AGD.
 
 ## Contribuer
 
@@ -23,13 +21,13 @@ Installer bundler
 gem install bundler
 ```
 
-Compiler et démarrer un serveur de documentation
+Compiler et démarrer un serveur
 
 ```
 git clone https://github.com/etalab/agd.data.gouv.fr
 cd agd.data.gouv.fr
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve --config _config.yml,_config_dev.yml --incremental
 ```
 
 Le site sera disponible sur <http://localhost:4000>.

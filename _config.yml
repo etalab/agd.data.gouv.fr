@@ -24,4 +24,3 @@ exclude:
   - package.json
 
 remote_theme: etalab/template-jekyll
-theme: jekyll-theme-gouvfr
