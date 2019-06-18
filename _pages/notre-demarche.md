@@ -6,6 +6,7 @@ author: Alexis Eidelman
 layout: page
 guid: http://agd.data.gouv.fr/?page_id=30
 permalink: /notre-demarche/
+redirect_to: https://www.etalab.gouv.fr/administrateur-general-des-donnees
 kopa_nictitate_total_view:
   - "12"
 image: /wp-content/uploads/2015/02/blog-2177.jpg
@@ -32,7 +33,7 @@ L'interopérabilité, la qualité et l'accessibilité des données passent aussi
 - [La Bonne Boite](https://labonneboite.pole-emploi.fr/)
 - [les algorithmes de Bob Emploi](https://agd.data.gouv.fr/2016/11/14/760/)
 - [La Bonne Formation](https://labonneformation.pole-emploi.fr/)
-  
+
 ### Pour fournir des outils d'aide à la décision dans le domaine de l'énergie
 
 - OpenSolarMap ([articles 0](https://agd.data.gouv.fr/2016/06/17/opensolarmap-cote-data-sciences-03/), [1](https://agd.data.gouv.fr/2016/06/23/les-techniques-standards-appliquees-a-opensolarmap-13/), [2](https://agd.data.gouv.fr/2016/06/27/un-reseau-de-neurones-pour-opensolarmap-23/) et [en anglais](https://agd.data.gouv.fr/2017/03/06/building-an-open-solar-power-map/))

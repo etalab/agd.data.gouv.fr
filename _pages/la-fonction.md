@@ -5,6 +5,7 @@ date: 2015-02-19T19:35:24+00:00
 author: Simon Chignard
 layout: page
 permalink: /la-fonction/
+redirect_to: https://www.etalab.gouv.fr/administrateur-general-des-donnees
 guid: http://agd.data.gouv.fr/?page_id=11
 kopa_nictitate_total_view:
   - "27"
@@ -20,7 +21,7 @@ La France a été le premier pays à instaurer la fonction d'**administrateur g�
 
 Ses principales missions sont les suivantes :
 
-###  Coordination
+### Coordination
 
 L'administrateur général des données (AGD) coordonne l'action des administrations en matière d'inventaire, de gouvernance, de production, de circulation et d'exploitation des données par les administrations
 
@@ -50,9 +51,9 @@ L'administrateur général des données propose au Premier ministre, après conc
 L'administrateur général des données remet chaque année au Premier ministre un rapport public sur l'inventaire, la gouvernance, la production, la circulation, l'exploitation des données par les administrations.
 
 Ce rapport fait notamment état des données existantes, de leur qualité ainsi que des exploitations innovantes que ces données autorisent. Il présente les évolutions récentes de l'économie de la donnée. Il contient des propositions visant é améliorer l'exploitation et la circulation des données entre les administrations.
-  
-* [Rapport 2015](https://agd.data.gouv.fr/2016/01/21/rapport-annuel-2015-mettre-les-donnees-au-service-de-la-transformation-de-laction-publique/)
-* [Rapport 2016-2017](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf)
+
+- [Rapport 2015](https://agd.data.gouv.fr/2016/01/21/rapport-annuel-2015-mettre-les-donnees-au-service-de-la-transformation-de-laction-publique/)
+- [Rapport 2016-2017](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf)
 
 ## Organisation
 
