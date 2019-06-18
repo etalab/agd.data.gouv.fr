@@ -6,7 +6,7 @@ author: Alexis Eidelman
 layout: post
 guid: http://agd.data.gouv.fr/?p=262
 permalink: /2015/06/01/saisine-pm-cc/
-redirect_to: https://www.etalab.gouv.fr/saisine-pm-cc/
+redirect_to: https://www.etalab.gouv.fr/saisine-pm-cc
 categories:
   - Circulation des données
 tags:
