@@ -6,6 +6,7 @@ author: Florian Gauthier
 layout: post
 guid: https://agd.data.gouv.fr/?p=957
 permalink: /2018/01/19/un-appui-scientifique-aux-administrations/
+redirect_to: https://www.etalab.gouv.fr/un-appui-scientifique-aux-administrations
 kopa_nictitate_total_view:
   - "7"
 categories:
@@ -13,6 +14,7 @@ categories:
 image: /wp-content/uploads/2018/01/black-box-of-sales.jpg
 excerpt_separator: <!--more-->
 ---
+
 Régulièrement sollicitée par des entreprises privées qui lui proposent des solutions de data-sciences, l'administration n'a pas toujours le recul ou les connaissances scientifiques nécessaires pour évaluer la pertinence des outils qu'on lui propose.
 
 <!--more-->

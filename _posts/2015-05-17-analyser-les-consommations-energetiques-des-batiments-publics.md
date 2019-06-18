@@ -6,6 +6,7 @@ author: Paul Bouchequet
 layout: post
 guid: http://agd.data.gouv.fr/?p=77
 permalink: /2015/05/17/analyser-les-consommations-energetiques-des-batiments-publics/
+redirect_to: https://www.etalab.gouv.fr/analyser-les-consommations-energetiques-des-batiments-publics
 kopa_nictitate_total_view:
   - "4"
 image: /wp-content/uploads/2015/05/cite_administratives_minfi.png
@@ -28,7 +29,7 @@ Les bâtiments ont été regroupés grâce à la méthode du spectral clustering
 
 <div id="attachment_166" style="width: 816px" class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/05/cite_administratives_minfi.png"><img class="wp-image-166 size-large" src="/wp-content/uploads/2015/05/cite_administratives_minfi-1024x533.png" alt="Courbe de charge des cités administratives" width="806" height="420" srcset="/wp-content/uploads/2015/05/cite_administratives_minfi-1024x533.png 1024w, /wp-content/uploads/2015/05/cite_administratives_minfi-300x156.png 300w" sizes="(max-width: 806px) 100vw, 806px" /></a>
-  
+
   <p class="wp-caption-text">
     Courbes de consommation d'électricité d'un groupe, ne comportant que des cités administratives.
   </p>
@@ -38,7 +39,7 @@ Ces éléments ont complété l'appel d'offres publié le 16 mars 2015, avec les
 
 <div id="attachment_108" style="width: 1024px" class="wp-caption aligncenter">
   <a href="http://agd.data.gouv.fr/wp-content/uploads/2015/02/Notice-analyse-courbe-de-charges-1.png"><img class="wp-image-108 " src="http://agd.data.gouv.fr/wp-content/uploads/2015/02/Notice-analyse-courbe-de-charges-1-1024x315.png" alt="Carte de chaleur de la consommation électrique d'un bâtiment" width="1014" height="312" srcset="https://agd.data.gouv.fr/wp-content/uploads/2015/02/Notice-analyse-courbe-de-charges-1-1024x315.png 1024w, https://agd.data.gouv.fr/wp-content/uploads/2015/02/Notice-analyse-courbe-de-charges-1-300x92.png 300w" sizes="(max-width: 1014px) 100vw, 1014px" /></a>
-  
+
   <p class="wp-caption-text">
     Carte de chaleur de la consommation électrique d'un des bâtiments du jeu de données<br>
   </p>

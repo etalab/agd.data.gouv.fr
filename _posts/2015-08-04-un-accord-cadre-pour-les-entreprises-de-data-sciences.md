@@ -6,6 +6,7 @@ author: Paul-Antoine Chevalier
 layout: post
 guid: https://agd.data.gouv.fr/?p=341
 permalink: /2015/08/04/un-accord-cadre-pour-les-entreprises-de-data-sciences/
+redirect_to: https://www.etalab.gouv.fr/un-accord-cadre-pour-les-entreprises-de-data-sciences
 kopa_nictitate_total_view:
   - "1"
 categories:
@@ -24,9 +25,9 @@ Dans le cadre de sa mission visant à coordonner les administrations dans la gou
 
 L'appel à candidatures porte sur trois grandes catégories de besoins des administrations :
 
-* La mise en forme ou la constitution de base de données ;
-* Le développement de modèles prédictifs ;
-* Le développement de visualisations de données interactives ou de dashboards ;
+- La mise en forme ou la constitution de base de données ;
+- Le développement de modèles prédictifs ;
+- Le développement de visualisations de données interactives ou de dashboards ;
 
 Si votre entreprise maîtrise au moins l'une de ces compétences, n'hésitez pas à postuler à l'accord-cadre.
 

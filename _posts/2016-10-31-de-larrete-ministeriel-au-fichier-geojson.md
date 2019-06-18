@@ -6,6 +6,7 @@ author: Alexis Eidelman
 layout: post
 guid: https://agd.data.gouv.fr/?p=722
 permalink: /2016/10/31/de-larrete-ministeriel-au-fichier-geojson/
+redirect_to: https://www.etalab.gouv.fr/de-larrete-ministeriel-au-fichier-geojson
 kopa_nictitate_total_view:
   - "2"
 image: /wp-content/uploads/2016/10/ZTI.png
@@ -14,6 +15,7 @@ categories:
 tags:
   - saisine
 ---
+
 L'Administrateur général des données a récemment été saisi d'une intéressante question concernant les contours des nouvelles zones touristiques internationale sur Paris. Cela a donné lieu à un travail qui mérite d'ètre partagé.
 
 <span style="color: #808080;">Un tracé apparaissait sur cette page du ministère de l'économie. <a class="moz-txt-link-freetext" style="color: #808080;" href="http://www.economie.gouv.fr/vous-orienter/entreprise/commerce/creation-des-zones-touristiques-internationales-a-paris"><span style="color: #3366ff;">http://www.economie.gouv.fr/vous-orienter/entreprise/commerce/creation-des-zones-touristiques-internationales-a-paris</span>.</a> Cependant, le format de diffusion en pdf rendait impossible la réutilisation. De plus le tracé n'englobait pas autant qu'il l'aurait pu les adresses alors que la possibilité de faire le lien adresse &#8211; zone est important pour la réutilisation.</span>

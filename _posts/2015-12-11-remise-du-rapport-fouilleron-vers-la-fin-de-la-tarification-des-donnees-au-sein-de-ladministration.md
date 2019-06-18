@@ -6,11 +6,13 @@ author: Olympe
 layout: post
 guid: https://agd.data.gouv.fr/?p=427
 permalink: /2015/12/11/remise-du-rapport-fouilleron-vers-la-fin-de-la-tarification-des-donnees-au-sein-de-ladministration/
+redirect_to: https://www.etalab.gouv.fr/remise-du-rapport-fouilleron-vers-la-fin-de-la-tarification-des-donnees-au-sein-de-ladministration
 categories:
   - Uncategorized
 tags:
   - Rapport
 ---
+
 La remise du rapport sur **_Les échanges de données réalisés à titre onéreux entre les administrations,_** réalisé par M. Antoine Fouilleron, auditeur à la Cour des comptes, au cabinet du Premier Ministre le 8 décembre 2015, marque un pas en avant vers une meilleure gouvernance des données au sein de l'administration.
 
 [<img class="aligncenter size-full wp-image-367" src="https://agd.data.gouv.fr/wp-content/uploads/2015/12/remise-rapport-fouilleron-2mb.jpg" alt="remise rapport fouilleron" width="500" height="300" />](https://agd.data.gouv.fr/wp-content/uploads/2015/12/remise-rapport-fouilleron-2mb.jpg)

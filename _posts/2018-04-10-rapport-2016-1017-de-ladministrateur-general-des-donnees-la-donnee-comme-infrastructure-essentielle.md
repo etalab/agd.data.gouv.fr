@@ -6,6 +6,7 @@ author: Simon Chignard
 layout: post
 guid: https://agd.data.gouv.fr/?p=1020
 permalink: /2018/04/10/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle/
+redirect_to: https://www.etalab.gouv.fr/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle
 kopa_nictitate_total_view:
   - "167"
 categories:
@@ -21,28 +22,27 @@ excerpt: L'administrateur général des données (AGD) a remis ce jour au secré
 
 **[Consulter le rapport « La donnée comme infrastructure essentielle »](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf)**
 
-
 ## Un état des lieux de la politique de la donnée
 
 Dans son rapport 2016-2017, l'administrateur général des données dresse un état des lieux des pratiques des administrations en matière de production, de circulation et d'exploitation des données. Il fait mention des progrès enregistrés depuis la publication de son rapport précédent (décembre 2015), sur chacun des axes de cette politique :
 
-  * _produire les données essentielles_ : 
-      * Le statut de données de référence a été reconnu juridiquement dans le cadre de la loi pour une République numérique ;
-      * Les administrations ont produit des données essentielles, comme la Base adresse nationale ;
-      * Des standards de données ont été définis, notamment dans le domaine de la commande publique, des conventions de subventions et de l'énergie ;
-  * _améliorer la circulation de la donnée_ : 
-      * Les 9 premières bases de données de référence ont été mises en ligne, avec des résultats probants (multiplication par 20 du nombre d'utilisateurs réguliers du répertoire des entreprises selon l'INSEE) ;
-      * La mise à disposition d'interfaces de programmation, en particulier l'API Entreprise et l'API Particulier ;
-      * Le cadre juridique a évolué pour favoriser la circulation de la donnée (principe d'ouverture par défaut, principe de gratuité) ;
-  * _exploiter les données_ : 
-      * Les _data sciences_ ont été appliquées dans plusieurs domaines de l'action publique, dont la lutte contre le chômage, l'aide aux entreprises en difficulté, l'aide à la décision pour les forces de sécurité intérieure.
+- _produire les données essentielles_ :
+  - Le statut de données de référence a été reconnu juridiquement dans le cadre de la loi pour une République numérique ;
+  - Les administrations ont produit des données essentielles, comme la Base adresse nationale ;
+  - Des standards de données ont été définis, notamment dans le domaine de la commande publique, des conventions de subventions et de l'énergie ;
+- _améliorer la circulation de la donnée_ :
+  - Les 9 premières bases de données de référence ont été mises en ligne, avec des résultats probants (multiplication par 20 du nombre d'utilisateurs réguliers du répertoire des entreprises selon l'INSEE) ;
+  - La mise à disposition d'interfaces de programmation, en particulier l'API Entreprise et l'API Particulier ;
+  - Le cadre juridique a évolué pour favoriser la circulation de la donnée (principe d'ouverture par défaut, principe de gratuité) ;
+- _exploiter les données_ :
+  - Les _data sciences_ ont été appliquées dans plusieurs domaines de l'action publique, dont la lutte contre le chômage, l'aide aux entreprises en difficulté, l'aide à la décision pour les forces de sécurité intérieure.
 
 > **L'administrateur général des données : son rôle, ses missions**
-> 
+>
 > Fonction créée en septembre 2014 par [décret](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029463482&categorieLien=id), l'administrateur général des données (AGD) coordonne l'action des administrations en matière d'inventaire, de gouvernance, de production, de circulation et d'exploitation des données. Il organise, dans le respect de la protection des données personnelles et des secrets protégés par la loi, la meilleure exploitation de ces données et leur plus large circulation, notamment aux fins d'évaluation des politiques publiques, d'amélioration et de transparence de l'action publique et de stimulation de la recherche et de l'innovation. Il encourage et soutient de ce fait le développement et l'usage des pratiques des datasciences au sein de l'administration.
-> 
+>
 > L'AGD remet chaque année au Premier ministre un rapport public sur l'inventaire, la gouvernance, la production, la circulation, l'exploitation des données par les administrations.
-> 
+>
 > Placée sous l'autorité du Premier ministre, la fonction d'administrateur général des données est occupée aujourd'hui par Henri Verdier, directeur interministériel du numérique et du système d'information et de communication de l'État.
 
 ## Construire l'infrastructure de la donnée
@@ -59,11 +59,11 @@ Le choix d'un modèle de gouvernance apparaît bien comme un élément structura
 
 Le rapport présente en conclusion la feuille de route de l'administrateur général des données pour les deux prochaines années. Cinq axes sont proposés :
 
-  * _mettre à disposition les données, les ressources et les infrastructures_, renforcer et amplifier la dynamique engagée autour du service public de la donnée,
-  * _développer la doctrine de la circulation de la donnée_ au sein de la sphère publique, fournir « la bonne donnée à la bonne personne » et in fine gérer le droit d'en connaître pour les données protégées par des secrets,
-  * _renforcer le réseau des administrateurs ministériels des données_, pour décliner la politique de la donnée (production, circulation, exploitation) au sein de chaque ministère,
-  * _développer un pôle de compétences en intelligence artificielle_, pour faire de l'Etat l'un des premiers utilisateurs de ces outils, définir les conditions d'une utilisation éthique et responsable des algorithmes publics,
-  * _soutenir l'écosystème des utilisateurs de données publiques_, documenter les impacts économiques et sociaux d'une meilleure circulation de la donnée.
+- _mettre à disposition les données, les ressources et les infrastructures_, renforcer et amplifier la dynamique engagée autour du service public de la donnée,
+- _développer la doctrine de la circulation de la donnée_ au sein de la sphère publique, fournir « la bonne donnée à la bonne personne » et in fine gérer le droit d'en connaître pour les données protégées par des secrets,
+- _renforcer le réseau des administrateurs ministériels des données_, pour décliner la politique de la donnée (production, circulation, exploitation) au sein de chaque ministère,
+- _développer un pôle de compétences en intelligence artificielle_, pour faire de l'Etat l'un des premiers utilisateurs de ces outils, définir les conditions d'une utilisation éthique et responsable des algorithmes publics,
+- _soutenir l'écosystème des utilisateurs de données publiques_, documenter les impacts économiques et sociaux d'une meilleure circulation de la donnée.
 
 [<img class="size-thumbnail wp-image-1028 aligncenter" src="https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-150x150.png" alt="" width="150" height="150" srcset="https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-150x150.png 150w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-80x80.png 80w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-118x118.png 118w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-239x239.png 239w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-32x32.png 32w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-50x50.png 50w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-64x64.png 64w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-96x96.png 96w, https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017-128x128.png 128w" sizes="(max-width: 150px) 100vw, 150px" />](https://agd.data.gouv.fr/wp-content/uploads/2018/04/couv-rapport-agd-20162017.png)
 

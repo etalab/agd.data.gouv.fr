@@ -6,6 +6,7 @@ author: Paul-Antoine Chevalier
 layout: post
 guid: https://agd.data.gouv.fr/?p=361
 permalink: /2015/11/25/cancer-de-la-prostate-a-quoi-ressemblera-le-parcours-de-soin-en-2030/
+redirect_to: https://www.etalab.gouv.fr/cancer-de-la-prostate-a-quoi-ressemblera-le-parcours-de-soin-en-2030
 image: /wp-content/uploads/2015/11/cancerdelaprostate_zoom2.png
 categories:
   - Science des données
@@ -24,8 +25,8 @@ Anticiper le progrès médical est aussi un élément important pour le financem
 
 ## Mesurer et prédire l'intérèt de la communauté scientifique pour chaque innovation
 
-> PubMed sera désormais disponible gratuitement pour le peuple américain. Son accès libre pourrait contribuer bien plus à la réforme et à la qualité du système de soins américain que tout ce que nous avons tenté de faire jusqu'ici. 
-Al Gore, conférence de presse au Capitole le 26 juin 1997.
+> PubMed sera désormais disponible gratuitement pour le peuple américain. Son accès libre pourrait contribuer bien plus à la réforme et à la qualité du système de soins américain que tout ce que nous avons tenté de faire jusqu'ici.
+> Al Gore, conférence de presse au Capitole le 26 juin 1997.
 
 En décidant d'ouvrir la base de données de la bibliothèque américaine de médecine (PubMed) en 1997, le gouvernement américain a été précurseur du mouvement de l'open data. Cette base de données bibliographique contient l'ensemble des publications en médecine avec le titre, le résumé, la date de publication, le nom des auteurs et le nom de la revue. Le cabinet La mètis a d'abord déterminé un ensemble de mots-clés soigneusement choisis pour identifier chacune des innovations médicales dans la prise en charge du cancer de la prostate de 1980 à 2015. Il a ensuite fouillé les données pour analyser le nombre de publications les concernant et mesuré le _buzz_ scientifique de chaque innovation.
 

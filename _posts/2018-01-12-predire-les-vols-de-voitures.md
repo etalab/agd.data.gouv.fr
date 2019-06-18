@@ -6,11 +6,13 @@ author: Florian Gauthier
 layout: post
 guid: /?p=946
 permalink: /2018/01/12/predire-les-vols-de-voitures/
+redirect_to: https://www.etalab.gouv.fr/predire-les-vols-de-voitures
 categories:
   - Science des données
 image: /wp-content/uploads/2017/10/6-Predvol-predictions-quotidiennes.png
 excerpt: En 2015, l'équipe de l'Administrateur général des données au sein de la DINSIC a développé en collaboration avec le Service des technologies et des systèmes d'information de la Sécurité intérieure (ST(SI)è), un modèle de prédiction des vols liés aux véhicules. Cette collaboration a permis de développer **Predvol**, un outil d'aide à la décision pour les policiers et les gendarmes, comprenant une prédiction quotidienne du risque de vols, une carte de l'historique des vols et une typologie des quartiers en fonction de la nature des infractions qui y sont commises.
 ---
+
 **Résumé :**
 
 En 2015, l'équipe de l'Administrateur général des données au sein de la DINSIC a développé en collaboration avec le Service des technologies et des systèmes d'information de la Sécurité intérieure (ST(SI)è), un modèle de prédiction des vols liés aux véhicules. Cette collaboration a permis de développer **Predvol**, un outil d'aide à la décision pour les policiers et les gendarmes, comprenant une prédiction quotidienne du risque de vols, une carte de l'historique des vols et une typologie des quartiers en fonction de la nature des infractions qui y sont commises.
