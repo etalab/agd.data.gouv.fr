@@ -6,6 +6,7 @@ author: Claire-Marie Foulquier-Gazagnes
 layout: post
 guid: http://agd.data.gouv.fr/?p=43
 permalink: /2014/11/14/acteurs-publics-et-societe-civile-sassocient-pour-la-constitution-dune-base-adresse-nationale-ban-collaborative/
+redirect_to: https://www.etalab.gouv.fr/acteurs-publics-et-societe-civile-sassocient-pour-la-constitution-dune-base-adresse-nationale-ban-collaborative
 image: /wp-content/uploads/2015/02/IMG_20141114_172407-806x393.jpg
 categories:
   - Uncategorized

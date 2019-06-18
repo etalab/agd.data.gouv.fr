@@ -6,6 +6,7 @@ author: Michel Blancard
 layout: post
 guid: https://agd.data.gouv.fr/?p=840
 permalink: /2017/03/06/building-an-open-solar-power-map/
+redirect_to: https://www.etalab.gouv.fr/building-an-open-solar-power-map
 categories:
   - Science des données
 tags:
@@ -15,8 +16,8 @@ tags:
   - OpenData
 image: /wp-content/uploads/2017/02/Screenshot_opensolarmap.png
 ---
-Despite the introduction of financial incentives for developing production of photovoltaic (solar) power systems since 2000, France ranks only 15th out of 28 in Europe for photovoltaic production per inhabitant.
 
+Despite the introduction of financial incentives for developing production of photovoltaic (solar) power systems since 2000, France ranks only 15th out of 28 in Europe for photovoltaic production per inhabitant.
 
 As a comparison, Germany sets an example with production per inhabitant five times higher. Concerns about the selectiveness of the subsidies, and the increasing burden on finances, led to a reduction in the incentives after 2010.
 
@@ -34,7 +35,7 @@ Etalab took advantage of a hackathon to design and set up a crowdsourcing platfo
 
 <div id="attachment_843" style="width: 1010px" class="wp-caption aligncenter">
   <a href="https://agd.data.gouv.fr/wp-content/uploads/2017/02/Screenshot_opensolarmap.png"><img class="wp-image-843 size-full" src="https://agd.data.gouv.fr/wp-content/uploads/2017/02/Screenshot_opensolarmap.png" width="1000" height="577" srcset="https://agd.data.gouv.fr/wp-content/uploads/2017/02/Screenshot_opensolarmap.png 1000w, https://agd.data.gouv.fr/wp-content/uploads/2017/02/Screenshot_opensolarmap-300x173.png 300w, https://agd.data.gouv.fr/wp-content/uploads/2017/02/Screenshot_opensolarmap-768x443.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a>
-  
+
   <p class="wp-caption-text">
     opensolarmap.org : Crowdsourcing platform, displaying a roof image and 4 possible orientation choices
   </p>
@@ -50,7 +51,7 @@ The nationwide map of roof orientation shows differences between regions affecte
 
 <div id="attachment_841" style="width: 816px" class="wp-caption aligncenter">
   <a href="https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res.png"><img class="wp-image-841 size-large" src="https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res-1024x957.png" width="806" height="753" srcset="https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res-1024x957.png 1024w, https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res-300x280.png 300w, https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res-768x717.png 768w, https://agd.data.gouv.fr/wp-content/uploads/2017/02/orientation_mid_res.png 1200w" sizes="(max-width: 806px) 100vw, 806px" /></a>
-  
+
   <p class="wp-caption-text">
     Roof orientation map. Regions with a high number of favourably orientated roofs are displayed in red.
   </p>
@@ -60,7 +61,7 @@ The solar cadastre doesn't take into account shades or the angle of inclination 
 
 <div id="attachment_842" style="width: 735px" class="wp-caption aligncenter">
   <a href="https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR.png"><img class="wp-image-842 size-large" src="https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR-725x1024.png" width="725" height="1024" srcset="https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR-725x1024.png 725w, https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR-212x300.png 212w, https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR-768x1085.png 768w, https://agd.data.gouv.fr/wp-content/uploads/2017/02/G_opt_FR.png 1200w" sizes="(max-width: 725px) 100vw, 725px" /></a>
-  
+
   <p class="wp-caption-text">
     Horizontal irradiation &#8211; France. Source: PVGIS é European Union, 2001-2012 (Copyright: 2011 GeoModel Solar s.r.o.)
   </p>

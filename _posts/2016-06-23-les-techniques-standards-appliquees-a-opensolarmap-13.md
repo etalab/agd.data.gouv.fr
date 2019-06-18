@@ -6,6 +6,7 @@ author: Michel Blancard
 layout: post
 guid: https://agd.data.gouv.fr/?p=669
 permalink: /2016/06/23/les-techniques-standards-appliquees-a-opensolarmap-13/
+redirect_to: https://www.etalab.gouv.fr/les-techniques-standards-appliquees-a-opensolarmap-13
 kopa_nictitate_total_view:
   - "6"
 categories:
@@ -17,6 +18,7 @@ tags:
   - OpenSolarMap
 image: /wp-content/uploads/2016/04/lr.png
 ---
+
 **Lorsqu'un algorithme simple ne convient pas, la deuxième étape d'un projet de machine learning est d'essayer des « grands classiques ». Ces algorithmes sont plus complexes d'un point de vue théorique, mais des implémentations toutes prêtes existent et cette étape est généralement rapide à mettre en oeuvre.**
 
 # Régression logistique
@@ -36,18 +38,18 @@ err = (predictions != val_labels).sum() / len(val_labels)
 
 Passons en revue chaque ligne :
 
-  1. Les données sont chargées dans les variables `train_data`, `val_data` et `test_data`. La fonction `load.load_all_data()`, spécifique a notre problème, prend en paramètre la liste des identifiants de toits à charger, la taille `l` des images voulue et le nombre de canaux de couleur voulu (rouge, vert et bleu ou noir et blanc). Les images de toitures sont séparées en 3 échantillons : 
-      * Un échantillon d'apprentissage ;
-      * Un échantillon de test ;
-      * Un échantillon de validation.
-  2. Un objet python encapsulant un modèle de régression linéaire est créé. Les paramètres `penalty` et `C` configurent la régularisation. La [régularisation](https://en.wikipedia.org/wiki/Regularization_(mathematics)) est utile lorsque le nombre de features est comparable à la taille de l'échantillon. Ici, il y a plusieurs milliers d'exemples dans l'échantillon d'apprentissage et quelques centaines de features tout au plus. Pour simplifier, le paramètre `C` a une valeur très élevée (`1e10 = 10.000.000.000`) ce qui correspond à une régularisation négligeable.
-  3. Le modèle est entraîné sur l'échantillon d'apprentissage. Le modèle a accès aux features (`train_data`) mais aussi aux labels (`train_labels`) pour pouvoir se corriger et s'améliorer.
-  4. Le modèle fait des prédictions sur l'échantillon de test. Maintenant le modèle n'a pas accès aux labels.
-  5. Le taux d'erreurs de la prédiction du modèle est calculé comme le quotient du nombre d'erreurs sur la taille de l'échantillon.
+1. Les données sont chargées dans les variables `train_data`, `val_data` et `test_data`. La fonction `load.load_all_data()`, spécifique a notre problème, prend en paramètre la liste des identifiants de toits à charger, la taille `l` des images voulue et le nombre de canaux de couleur voulu (rouge, vert et bleu ou noir et blanc). Les images de toitures sont séparées en 3 échantillons :
+   - Un échantillon d'apprentissage ;
+   - Un échantillon de test ;
+   - Un échantillon de validation.
+2. Un objet python encapsulant un modèle de régression linéaire est créé. Les paramètres `penalty` et `C` configurent la régularisation. La [régularisation](<https://en.wikipedia.org/wiki/Regularization_(mathematics)>) est utile lorsque le nombre de features est comparable à la taille de l'échantillon. Ici, il y a plusieurs milliers d'exemples dans l'échantillon d'apprentissage et quelques centaines de features tout au plus. Pour simplifier, le paramètre `C` a une valeur très élevée (`1e10 = 10.000.000.000`) ce qui correspond à une régularisation négligeable.
+3. Le modèle est entraîné sur l'échantillon d'apprentissage. Le modèle a accès aux features (`train_data`) mais aussi aux labels (`train_labels`) pour pouvoir se corriger et s'améliorer.
+4. Le modèle fait des prédictions sur l'échantillon de test. Maintenant le modèle n'a pas accès aux labels.
+5. Le taux d'erreurs de la prédiction du modèle est calculé comme le quotient du nombre d'erreurs sur la taille de l'échantillon.
 
 <div id="attachment_598" style="width: 310px" class="wp-caption alignright">
   <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/lr.png"><img class="wp-image-598 size-medium" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/lr-300x209.png" alt="lr" width="300" height="209" srcset="https://agd.data.gouv.fr/wp-content/uploads/2016/04/lr-300x209.png 300w, https://agd.data.gouv.fr/wp-content/uploads/2016/04/lr.png 403w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Figure 1 : choix des hyperparamètres pour la régression logistique
   </p>
@@ -75,7 +77,7 @@ Le meilleur résultat est toujours obtenu avec une taille de 6 pixels par 6 pixe
 
 <div id="attachment_599" style="width: 310px" class="wp-caption aligncenter">
   <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/svm.png"><img class="wp-image-599 size-medium" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/svm-300x213.png" alt="svm" width="300" height="213" srcset="https://agd.data.gouv.fr/wp-content/uploads/2016/04/svm-300x213.png 300w, https://agd.data.gouv.fr/wp-content/uploads/2016/04/svm.png 396w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Figure 2 : choix des hyperparamètres pour la SVM
   </p>

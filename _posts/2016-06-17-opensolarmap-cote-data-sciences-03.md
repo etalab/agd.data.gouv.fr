@@ -6,6 +6,7 @@ author: Michel Blancard
 layout: post
 guid: https://agd.data.gouv.fr/?p=666
 permalink: /2016/06/17/opensolarmap-cote-data-sciences-03/
+redirect_to: https://www.etalab.gouv.fr/opensolarmap-cote-data-sciences-03
 kopa_nictitate_total_view:
   - "3"
 categories:
@@ -25,7 +26,7 @@ multitude et des data-sciences. Son objectif concret est de classifier
 les toitures en quatre catégories : orientation nord/sud; orientation
 est/ouest ; toit plat ; autre ou indéterminé. Cela permet, par
 exemple, d'évaluer le potentiel d'installation de panneaux solaires ou
-la possibilité de végétaliser.  Quelques milliers d'exemples ont été
+la possibilité de végétaliser. Quelques milliers d'exemples ont été
 recueillis grâce à une <a href="http://opensolarmap.org/">plateforme
 de crowdsourcing</a>. Puis, des algorithmes ont été utilisés pour
 couvrir l'ensemble du territoire. Une <a
@@ -74,18 +75,15 @@ elles sont justes ou fausses, sont au nombre de 60.436.
 </div>
 
 Parmi ces contributions, il y a 1.998 erreurs. Cela représente 3.3%
-des contributions.  Il faut cependant noter que les bâtiments
+des contributions. Il faut cependant noter que les bâtiments
 classifiés avec certitude sont en moyenne plus faciles à classifier
-que les autres.  Les contributions sur ces bâtiments sont donc moins
+que les autres. Les contributions sur ces bâtiments sont donc moins
 susceptibles d'ètre erronées. Le taux d'erreurs réel est donc sans
 doute plus élevé que cette valeur observée.
 
-
-
-  La figure 1 montre la répartition des utilisateurs suivant leur
-  nombre de contributions et leur taux de contributions correctes. On
-  ranger les contributeurs en plusieurs catégories :
-
+La figure 1 montre la répartition des utilisateurs suivant leur
+nombre de contributions et leur taux de contributions correctes. On
+ranger les contributeurs en plusieurs catégories :
 
 <li style="text-align: justify;">
   des contributeurs ayant un nombre de contributions élevé et un un taux de contributions correctes proche de 1. Dans cette catégorie, on remarque un contributeur ayant environ 8.000 contributions à lui seul : c'est Christian Quest !
@@ -97,47 +95,38 @@ doute plus élevé que cette valeur observée.
   un contributeur a quelques centaines de contributions et un taux faible, proche de 55%. L'analyse de ses contributions montrent qu'il s'agit sans doute d'un comportement malveillant. On peut ètre étonné de rencontrer ici un comportement malveillant, mais comme on va le voir tout de suite, il est très facile de s'en prévenir.
 </li>
 
-
-  En ignorant les contributions des utilisateurs ayant un taux observé de contributions correctes de 70%, on peut éliminer 191 contributeurs pour 725 erreurs, c'est-à-dire plus d'un tiers des erreurs.
-
+En ignorant les contributions des utilisateurs ayant un taux observé de contributions correctes de 70%, on peut éliminer 191 contributeurs pour 725 erreurs, c'est-à-dire plus d'un tiers des erreurs.
 
 ## Influences sur le taux de contributions correctes
 
 <div id="attachment_579" style="width: 424px" class="wp-caption aligncenter">
   <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/fatigue.png"><img class="wp-image-579 size-full" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/fatigue.png" alt="fatigue" width="414" height="281" srcset="https://agd.data.gouv.fr/wp-content/uploads/2016/04/fatigue.png 414w, https://agd.data.gouv.fr/wp-content/uploads/2016/04/fatigue-300x204.png 300w" sizes="(max-width: 414px) 100vw, 414px" /></a>
-  
+
   <p class="wp-caption-text">
     Figure 2
   </p>
-  
+
 </div>
 
+On peut se demander s'il existe des facteurs qui influencent le taux de contributions correctes.
 
-  On peut se demander s'il existe des facteurs qui influencent le taux de contributions correctes.
+Existe-t-il un effet de fatigue avec un taux de contributions correctes qui baisserait d'autant que le contributeur a contribué au cours de 20 dernières minutes ? La figure 2 indiquerait plutèt le contraire.
 
-
-
-  Existe-t-il un effet de fatigue avec un taux de contributions correctes qui baisserait d'autant que le contributeur a contribué au cours de 20 dernières minutes ? La figure 2 indiquerait plutèt le contraire.
-
-
-
-  Quelle est l'influence du temps de réponse sur le taux de contributions correctes ? La figure 3 montre que ce taux est optimal entre 1 et 3 secondes environ. En dessous d'une seconde, il chute rapidement à 93% pour un temps d'environ 0.5 seconde. Dans ces cas, le contributeur n'a peut-ètre pas pris assez de temps pour répondre précisément. Au delà de 3 secondes il chute aussi. Le contributeur a peut-ètre hésité face à un bètiment plus difficile à classifier que la moyenne.
-
+Quelle est l'influence du temps de réponse sur le taux de contributions correctes ? La figure 3 montre que ce taux est optimal entre 1 et 3 secondes environ. En dessous d'une seconde, il chute rapidement à 93% pour un temps d'environ 0.5 seconde. Dans ces cas, le contributeur n'a peut-ètre pas pris assez de temps pour répondre précisément. Au delà de 3 secondes il chute aussi. Le contributeur a peut-ètre hésité face à un bètiment plus difficile à classifier que la moyenne.
 
 <div id="attachment_580" style="width: 424px" class="wp-caption aligncenter">
   <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/response_time.png"><img class="wp-image-580 size-full" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/response_time.png" alt="response_time" width="414" height="282" srcset="https://agd.data.gouv.fr/wp-content/uploads/2016/04/response_time.png 414w, https://agd.data.gouv.fr/wp-content/uploads/2016/04/response_time-300x204.png 300w" sizes="(max-width: 414px) 100vw, 414px" /></a>
-  
+
   <p class="wp-caption-text">
     Figure 3
   </p>
-  
+
 </div>
 
 <div class="mceTemp">
 </div>
 
 # Entraéner un classifieur automatique
-
 
 L'ensemble des bâtiments dont on connaét l'orientation grèce aux
 contributeurs est bien plus petit que le nombre total de bâtiments
@@ -208,11 +197,11 @@ noter ces sommes S1, S2, S3 et S4.
 
 <div id="attachment_586" style="width: 742px" class="wp-caption aligncenter">
   <a href="https://agd.data.gouv.fr/wp-content/uploads/2016/04/dummy.png"><img class="wp-image-586 size-full" src="https://agd.data.gouv.fr/wp-content/uploads/2016/04/dummy.png" alt="dummy" width="732" height="299" srcset="https://agd.data.gouv.fr/wp-content/uploads/2016/04/dummy.png 732w, https://agd.data.gouv.fr/wp-content/uploads/2016/04/dummy-300x123.png 300w" sizes="(max-width: 732px) 100vw, 732px" /></a>
-  
+
   <p class="wp-caption-text">
     Figure 4
   </p>
-  
+
 </div>
 
 Puis à partir de ces sommes on calcule la différence entre la partie
@@ -237,12 +226,10 @@ causée par la position du soleil, toujours au sud, et de l'ombre,
 toujours au nord. Sa valeur est fixée pour maximiser la performance du
 modèle.
 
-Le résultat de l'algorithme est le signe de Y.  Si Y est positif,
+Le résultat de l'algorithme est le signe de Y. Si Y est positif,
 l'algorithme prédit une orientation nord-sud, si le signe est négatif
 il prédit une orientation est-ouest. Avec une valeur deéc optimale, le
 taux d'erreur est de 38%. C'est mieux que le classifieur aléatoire,
 qui répond 0 ou 1 avec une probabilité égale et qui a donc un taux
-d'erreur de 50%.  Mais ce n'est pas satisfaisant.  Il faut donc
+d'erreur de 50%. Mais ce n'est pas satisfaisant. Il faut donc
 chercher un algorithme plus compliqué.
-
-

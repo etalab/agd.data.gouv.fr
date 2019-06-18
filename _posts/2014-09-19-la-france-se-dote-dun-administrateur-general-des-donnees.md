@@ -6,6 +6,7 @@ author: Claire-Marie Foulquier-Gazagnes
 layout: post
 guid: http://agd.data.gouv.fr/?p=39
 permalink: /2014/09/19/la-france-se-dote-dun-administrateur-general-des-donnees/
+redirect_to: https://www.etalab.gouv.fr/la-france-se-dote-dun-administrateur-general-des-donnees
 image: /wp-content/uploads/2015/02/photo-806x393.jpg
 categories:
   - Uncategorized

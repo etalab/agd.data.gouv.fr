@@ -6,15 +6,16 @@ author: Michel Blancard
 layout: post
 guid: https://agd.data.gouv.fr/?p=685
 permalink: /2016/06/27/un-reseau-de-neurones-pour-opensolarmap-23/
+redirect_to: https://www.etalab.gouv.fr/un-reseau-de-neurones-pour-opensolarmap-23
 kopa_nictitate_total_view:
-- "35"
+  - "35"
 categories:
-- Science des données
+  - Science des données
 tags:
-- Datasciences
-- Energy
-- Machine-learning
-- OpenSolarMap
+  - Datasciences
+  - Energy
+  - Machine-learning
+  - OpenSolarMap
 image: /wp-content/uploads/2016/04/neurone-1.png
 excerpt: Après avoir essayé un algorithme très simple, puis un ou plusieurs algorithmes classiques, il est parfois (mais pas toujours) nécessaire de mettre en place un algorithme spécialisé dans le problème à résoudre. Les réseaux de neurones sont une catégorie d'algorithmes qui ont fait leurs preuves de manière spectaculaire dans le domaine du traitement d'images.
 ---
@@ -39,7 +40,7 @@ jouit également d'une pleine reconnaissance académique comme
 l'illustre la chaire annuelle de l'INRIA au Collège de France en <a
 href="http://www.college-de-france.fr/site/yann-lecun/">« Informatique
 et sciences numériques »</a> consacrée par Yann LeCun aux réseaux
-neuronaux.  Cette chaire, cours et séminaires inclus, constitue
+neuronaux. Cette chaire, cours et séminaires inclus, constitue
 d'ailleurs une excellente introduction aux techniques des réseaux
 neuronaux, parmi les multiples ressources disponibles librement sur
 Internet.
@@ -72,7 +73,7 @@ Figure 1 : neurone de type ReLU à 3 entrées.
 </p>
 
 </div>
-</li> 
+</li>
 
 <li style="text-align: justify;"> <strong>réseau</strong> : Les
 neurones sont disposés en un réseau qui prend la forme de plusieurs
@@ -91,7 +92,7 @@ d'être des « boîtes noires ». <p>
 <p class="wp-caption-text">
 Figure 2 : réseau de neurones à 3 couches
 </p>
-</div></li> 
+</div></li>
 
 <li style="text-align: justify;"> <strong>convolution
 </strong><em>(paragraphe technique à lire en seconde lecture)</em> :
@@ -436,4 +437,3 @@ voire faire du fine-tuning... Ici, il s'agissait surtout de démontrer
 qu'il est possible d'arriver très rapidement à des résultats
 satisfaisants, en utilisant un réseau, une librairie et du code déjà
 prêts à l'emploi.</p>
-

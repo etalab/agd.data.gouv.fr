@@ -6,6 +6,7 @@ author: Alexis Eidelman
 layout: post
 guid: https://agd.data.gouv.fr/?p=635
 permalink: /2016/09/08/deux-challenges-sur-des-donnees-publiques/
+redirect_to: https://www.etalab.gouv.fr/deux-challenges-sur-des-donnees-publiques
 kopa_nictitate_total_view:
   - "2"
 categories:
@@ -13,6 +14,7 @@ categories:
 tags:
   - Evénement
 ---
+
 L'ouverture des données par les administrations publiques permet à des jeunes datascientists d'exercer leurs talents. Des exemples récents le montrent. L'objectif peut avoir une dominante pédagogique et ludique mais peut aussi servir à montrer ce qu'il est possible de faire et suggérer des propositions d'amélioration pour les services publics.
 
 En mai dernier, l'association [FrenchData](http://frenchdata.fr/) a organisé le temps d'une soirée un challenge appelé « Le meilleur datascientist de France » à l'école 42. L'objectif du challenge est de déterminer le prix d'un médicament à partir de ses caractéristiques. Les données utilisées sont des données ouvertes celles de la [Base Publique des Médicaments](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/). Ce challenge a été prolongé au-delà de soirée et sera ouvert jusqu'au 31 octobre 2016 sur la plateforme [Datascience.net](https://www.datascience.net/fr/challenge/25/details). Lors de la soirée de lancement, des tutoriels en R et en Python permettaient de prédire le prix d'un médicament avec en moyenne une erreur de 60%. Aujourd'hui, les meilleurs résultats atteignent les 10% d'erreur.

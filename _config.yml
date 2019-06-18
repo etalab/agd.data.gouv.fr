@@ -24,3 +24,6 @@ exclude:
   - package.json
 
 remote_theme: etalab/template-jekyll
+
+plugins:
+  - jekyll-redirect-from

@@ -6,12 +6,14 @@ author: Henri Verdier
 layout: post
 guid: http://agd.data.gouv.fr/?p=180
 permalink: /2015/04/02/avis-portant-sur-la-publication-la-rectification-et-la-reutilisation-des-informations-portant-sur-les-professionnels-de-sante/
+redirect_to: https://www.etalab.gouv.fr/avis-portant-sur-la-publication-la-rectification-et-la-reutilisation-des-informations-portant-sur-les-professionnels-de-sante
 categories:
   - "Avis de l'AGD"
 tags:
   - "Avis de l'AGD"
   - Santé
 ---
+
 Dans le cadre de la préparation de la loi sur la santé, La Direction de la recherche, de l'évaluation et des études statistiques (DREES) du Ministère des affaires sociales et de la santé a sollicité l'avis de l'AGD sur la question spécifique de la publication des informations portant sur les professionnels de santé publiées en vertu de l'article 76 de la loi n°2002-303 du 4 mars 2002, codifié à l'[article L. 162-1-11 du code de la sécurité sociale](http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=494F0AA4016F964602D1574C968BC6CF.tpdila10v_3?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006741318&dateTexte=20150521&categorieLien=id#LEGIARTI000006741318). Il s'agissait en particulier d'examiner les conditions dans lesquelles ces données pourraient être réutilisées, et, dans ce cas, les modalités selon lesquelles les personnes pourraient exercer leur droit de rectification.
 
 Ci-après l'avis de l'AGD, publié avec l'accord du Ministère des affaires sociales et de la santé.
@@ -58,7 +60,6 @@ Cependant, il convient de préciser qu'en termes d'efficacité, il serait préf�
 
 Les réutilisateurs étant tenus de respecter les dispositions de la loi informatique et libertés, notamment le point 4 de l'article 6 qui prévoit l'obligation de mise à jour des données, les rectifications sur la base source seront répercutées sur l'ensemble des réutilisations.
 
-
 **Henri Verdier**
 
 Administrateur général des données
@@ -74,5 +75,3 @@ Administrateur général des données
 <p align="JUSTIFY">
   Le Conseil constitutionnel a, par deux décisions du 9 octobre 2013, déclaré que ces dispositions législatives étaient conformes à la Constitution. En effet, le Conseil constitutionnel a considéré qu'elles ne portaient pas une atteinte disproportionnée à la vie privée des intéressés au regard des objectifs poursuivis, c'est-à-dire la mise en oeuvre des garanties de probité, d'intégrité et de prévention et de lutte contre des conflits d'intérêts.
 </p>
-
-

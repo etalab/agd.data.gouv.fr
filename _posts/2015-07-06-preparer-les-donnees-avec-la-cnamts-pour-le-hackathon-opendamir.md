@@ -6,6 +6,7 @@ author: Alexis Eidelman
 layout: post
 guid: http://agd.data.gouv.fr/?p=121
 permalink: /2015/07/06/preparer-les-donnees-avec-la-cnamts-pour-le-hackathon-opendamir/
+redirect_to: https://www.etalab.gouv.fr/preparer-les-donnees-avec-la-cnamts-pour-le-hackathon-opendamir
 image: /wp-content/uploads/2015/07/Hackathon-Damir2.jpg
 categories:
   - Circulation des données
@@ -13,6 +14,7 @@ tags:
   - Billet technique
   - Evénement
 ---
+
 L'objectif d'un hackathon est de montrer comment une mise à disposition de données permet de créer de nouveaux services et de réaliser de nouvelles études. Pour que les participants puissent réutiliser les données facilement et sans perdre de temps, quelques étapes préparatoires sont parfois nécessaires. D'autant plus lorsque ce hackathon porte sur des données techniques, volumineuses et ayant un caractère personnel.
 
 Illustrations de ces travaux préliminaires à partir de l'exemple du [hackathon "données de santé"](https://www.etalab.gouv.fr/retour-sur-le-premier-hackathon-donnees-de-sante) organisé par la _Caisse Nationale de l'Assurance Maladie des Travailleurs Salariés_ (CNAMTS) et Etalab en janvier dernier pour lequel l'équipe de l'Administrateur général des données (AGD) s'est mobilisée.
@@ -23,9 +25,9 @@ L'équipe de la CNAMTS a adopté deux stratégies distinctes. Un [premier jeu de
 
 Une fois les risques de réidentification écartés, nous avons **standardisé la base de données pour en faciliter la réutilisation.** En effet, les données fournies par la CNAMTS étaient issues du système d'information interne et pensées pour ses usages. Pour faciliter la réutilisation des données par un public plus large, nous avons :
 
-  1. remplacé les longs libellés de certaines variables par des codes et créé une table de passage entre les libellés et les codes ;
-  2. supprimé les variables géographique redondantes en ne conservant que le niveau géographique le plus détaillé ;
-  3. écrit des scripts R et Python permettant de travailler facilement sur des niveaux géographiques agrégés.
+1. remplacé les longs libellés de certaines variables par des codes et créé une table de passage entre les libellés et les codes ;
+2. supprimé les variables géographique redondantes en ne conservant que le niveau géographique le plus détaillé ;
+3. écrit des scripts R et Python permettant de travailler facilement sur des niveaux géographiques agrégés.
 
 Ces opérations ont permis de réduire par quatre la taille de la base sur le disque et de faciliter le chargement des données sur un ordinateur. Le volume de données (près de 200 GO et un milliard et demi de lignes) restait cependant important. Pour permettre aux participants d'accéder aux données le jour J nous avons mis en place une base de données PostgreSQL sur un serveur et installé un réseau Ethernet local. Cela a permis aux participants de faire plus d'un million de requêtes et de télécharger 650 Go de données au total dans de bonnes conditions. Nous avions également préparé des programmes R et Python pour faciliter l'accès à la base PostgreSQL.
 

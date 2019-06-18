@@ -6,12 +6,14 @@ author: Alexis Eidelman
 layout: post
 guid: https://agd.data.gouv.fr/?p=451
 permalink: /2016/01/27/les-premieres-saisines-de-lagd-ou-en-est-on/
+redirect_to: https://www.etalab.gouv.fr/les-premieres-saisines-de-lagd-ou-en-est-on
 categories:
   - Circulation des données
 tags:
   - saisine
 ---
-_Le [décret du 16 septembre 2014](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029463482&categorieLien=id) instituant un administrateur général des données (AGD) prévoyait que celui-ci puisse être saisi par toute personne de toute question portant sur la circulation des données. Depuis la parution du décret, un peu plus d'un an s'est écoulé. Retour sur cette première année de saisines._ 
+
+_Le [décret du 16 septembre 2014](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029463482&categorieLien=id) instituant un administrateur général des données (AGD) prévoyait que celui-ci puisse être saisi par toute personne de toute question portant sur la circulation des données. Depuis la parution du décret, un peu plus d'un an s'est écoulé. Retour sur cette première année de saisines._
 
 Après avoir mis en place la procédure par le biais de son blog, l'Administrateur général des données (AGD) a reçu sa première saisine en juin 2015. De juin à décembre, c'est 13 saisines au total qui ont été reçues.
 
