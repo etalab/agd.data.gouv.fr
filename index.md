@@ -1,6 +1,7 @@
 ---
 layout: blog
 summary: Administrateur général des données
+redirect_to: https://www.etalab.gouv.fr/administrateur-general-des-donnees
 ---
 
 ## Posts
@@ -22,4 +23,3 @@ summary: Administrateur général des données
     </li>
   {% endfor %}
 </ul>
-
